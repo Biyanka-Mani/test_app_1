@@ -22,4 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
----Git Intro example for commit
+---Git Intro example for commit 
+Chnages made and code is again pushed!
